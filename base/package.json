@@ -1,0 +1,19 @@
+{
+  "name": "may-lily",
+  "version": "1.0.0",
+  "description": "JavaScript of the Site",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "test",
+    "build": "tsc",
+    "start": "node ./out/index.js"
+  },
+  "author": "Dmitriy Sidyakin",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1"
+  },
+  "dependencies": {
+    "npm": "^8.5.5"
+  }
+}
